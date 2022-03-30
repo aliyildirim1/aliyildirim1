@@ -30,7 +30,7 @@
 <p align="left">
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aliyildirimdaimia">
+    <img src="https://komarev.com/ghpvc/?username=aliyildirim1">
 </a>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/aliyildirimdaimia?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/aliyildirim1?style=social">
 </p>
