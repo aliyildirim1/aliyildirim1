@@ -2,9 +2,9 @@
 
 <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi , I'm Ali !</h2>
 <img align='right' src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" width="230">
-<h3 align="left">I'm a Mobile Developer from Turkey. 📱</h3>
 
-<p><em>Part-Time Software Developer  at <a href="http://www.daimia.com">DAIMIA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+
 
 ###  🚀 Tech
 
